@@ -1,0 +1,3 @@
+fastboot reboot
+
+adb reboot
